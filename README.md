@@ -12,7 +12,7 @@ Praktikum Modul 2
 Seorang peneliti melakukan penelitian mengenai pengaruh aktivitas 𝐴 terhadap kadar saturasi oksigen pada manusia. Peneliti tersebut mengambil sampel sebanyak 9 responden. Pertama, sebelum melakukan aktivitas 𝐴, peneliti mencatat kadar saturasi oksigen dari 9 responden tersebut. Kemudian, 9 responden tersebut diminta melakukan aktivitas 𝐴. Setelah 15 menit, peneliti tersebut mencatat kembali kadar saturasi oksigen dari 9 responden tersebut. Berikut data dari 9
 responden mengenai kadar saturasi oksigen sebelum dan sesudah melakukan aktivitas.
 
-![image](https://github.com/tigoyoga/Prak2_Probstat2023_C_5025211125/assets/88433109/cb6329d5-4623-4759-8f35-7e16248413b6)
+![image](https://github.com/tigoyoga/Prak2_Probstat2023_C_5025211125/assets/88433109/e252dd2d-ae50-429a-a21c-ec9b05b59e24)
 
 Berdasarkan data pada tabel diatas, diketahui kadar saturasi oksigen dari responden ke-3 ketika belum melakukan aktivitas 𝐴 sebanyak 67, dan setelah melakukan aktivitas 𝐴 sebanyak 70.
 
